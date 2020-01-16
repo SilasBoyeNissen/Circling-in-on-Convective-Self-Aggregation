@@ -1,1 +1,1 @@
-"Self-aggregation determined by cold pool collisions"
+"Self-aggregation conceptualized by cold pool organization"
