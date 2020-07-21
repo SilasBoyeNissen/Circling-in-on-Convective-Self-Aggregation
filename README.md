@@ -1,1 +1,1 @@
-"Self-aggregation conceptualized by cold pool organization"
+"The lack of cold pool interactions initiate self-aggregation"
