@@ -1,1 +1,1 @@
-"The lack of cold pool interactions can initiate convective self-aggregation"
+"The initial symmetry breaking in convective self-aggregation"
