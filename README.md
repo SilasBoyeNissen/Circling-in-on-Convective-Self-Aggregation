@@ -1,1 +1,1 @@
-"How weakened cold pools open for convective self-aggregation"
+"How weakened cold pools facilitate convective self-aggregation"
