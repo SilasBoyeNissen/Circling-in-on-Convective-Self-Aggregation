@@ -4,7 +4,7 @@ by Silas Boye Nissen and Jan O. Haerter.
 
 Available online: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035331.
 
-###################################################################################
+##################################################################################
 
 This repository includes MATLAB scripts and RCE data to reproduce the figures in the article.
 
